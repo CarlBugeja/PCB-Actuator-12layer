@@ -1,4 +1,5 @@
-# PCB-Motor-v4
+# PCB-Actuator-12layer
+
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
